@@ -1,0 +1,14 @@
+body{
+	background: black;
+	color: white;
+}
+h1{
+	color: yellow;
+}
+div{
+	background: white;
+	color: black;
+	border: 2px solid blue;
+	width: 30%;
+	margin: 20px;
+}

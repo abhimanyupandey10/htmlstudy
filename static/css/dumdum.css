@@ -1,0 +1,11 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(../images/123.jpg);
+	background-size: 200%;
+	background-position: center;
+	font-family: sans-serif;
+}
+h1{
+	color: white;
+}

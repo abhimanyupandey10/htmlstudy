@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(../images/earth.png);
+	background-size: 200%;
+	background-position: center;
+}
+h2{
+	color: red;
+}
+h1,p{
+	color: blue;
+}
+div{
+	border: 2px solid white;
+	width: 100px;
+	background-color: white;
+	color: black;
+}

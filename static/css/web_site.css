@@ -1,0 +1,21 @@
+table th{
+	background-color: black;
+	color: white;
+	font size: 200%;
+}
+table td{
+	text-align: left;
+	font size: 300%;
+	border: 2px solid red;
+	background-color: yellow;
+}
+table{
+	border-collapse: collapse;
+}
+#dam{
+	background-color: red;
+	color: white;
+}
+div{
+	border: 1px solid black
+}
